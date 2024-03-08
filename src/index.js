@@ -1,7 +1,13 @@
-const grid = {
-  redBull: 2,
-  ferrari: 2,
-  mercedes: 2,
+const quali = {
+  Verstappen: 1,
+  Leclerc: 2,
+  Sainz: 3,
 };
 
-console.log(grid);
+const race = {
+    Leclerc: 1,
+    Verstappen: 2,
+    Sainz: 3,
+}
+console.log(quali);
+console.log(race)
