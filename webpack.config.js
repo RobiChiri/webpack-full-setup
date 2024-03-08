@@ -1,5 +1,5 @@
 module.exports = {
-  mode: "develepment",
+  mode: "development",
   devServer: {
     static: "./dist",
   },
