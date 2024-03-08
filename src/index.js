@@ -1,3 +1,5 @@
+import "./styles/index.scss"
+
 const quali = {
   Verstappen: 1,
   Leclerc: 2,
